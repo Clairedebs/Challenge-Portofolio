@@ -8,7 +8,7 @@ import {
     MenubarTrigger,
   } from "@/components/ui/menubar"
 
-import React from 'react'
+// import React from 'react'
 
 const Nav2 = () => {
   return (

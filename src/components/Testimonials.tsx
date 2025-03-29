@@ -1,4 +1,4 @@
-import React from 'react'
+// import React from 'react'
 import { Card, CardContent } from './ui/card'
 import { Avatar, AvatarImage } from './ui/avatar'
 import { Quote } from 'lucide-react'
