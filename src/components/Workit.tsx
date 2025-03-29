@@ -20,13 +20,13 @@ const Workit = () => {
                 <Button className='bg-orange-500 text-white px-4 py-2 rounded-sm font-sans text-sm'>View case study</Button>
               </div>
               <div className="order-1 md:order-2">
-                <img src="src/assets/work1.svg" alt="workit" className='rounded-lg w-screen h-64 md:h-96 object-cover' />
+                <img src="public/work1.svg" alt="workit" className='rounded-lg w-screen h-64 md:h-96 object-cover' />
               </div>
             </div>
             {/* 2 */}
             <div className="flex flex-col md:flex-row gap-6 md:gap-10">
               <div className="order-1">
-                <img src="src/assets/work2.svg" alt="workit" className='rounded-lg w-screen h-64 md:h-96 object-cover' /> 
+                <img src="public/work2.svg" alt="workit" className='rounded-lg w-screen h-64 md:h-96 object-cover' /> 
               </div>
               <div className="py-5 order-2">
                 <span className='bg-blue-100 text-blue-500 p-1.5 px-2 rounded-sm font-sans text-sm'>React</span>
@@ -44,7 +44,7 @@ const Workit = () => {
                 <Button className='bg-green-500 text-white px-4 py-2 rounded-sm font-sans text-sm'>View case study</Button>
               </div>
               <div className="order-1 md:order-2">
-                <img src="src/assets/work3.svg" alt="workit" className='rounded-lg w-screen h-64 md:h-96 object-cover' />
+                <img src="public/work3.svg" alt="workit" className='rounded-lg w-screen h-64 md:h-96 object-cover' />
               </div>
             </div>
           </div>

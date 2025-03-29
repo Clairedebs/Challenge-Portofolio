@@ -13,14 +13,14 @@ const RecentsWork = () => {
             <div className='grid grid-cols-1 md:grid-cols-2 gap-8 md:gap-12 px-4 md:px-16 mb-10'>
                 {/* 1 */}
                 <div className="">
-                    <img src="src/assets/recent1.svg" alt="" className='w-screen h-64 md:h-96 object-cover rounded-lg' />
+                    <img src="public/recent1.svg" alt="" className='w-screen h-64 md:h-96 object-cover rounded-lg' />
                     <h3 className='text-xl md:text-2xl font-bold font-sans py-1'>Work name here</h3>
                     <p className='text-gray-500 text-lg md:text-lg py-2 md:py-6'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.</p>
                     <Button className='bg-green-500 text-white px-4 py-2 rounded-sm font-sans text-sm'>Know more</Button>
                 </div>
                 {/* 2 */}
                 <div className="">
-                    <img src="src/assets/recent2.svg" alt="" className='w-screen h-64 md:h-96 object-cover rounded-lg' />
+                    <img src="public/recent2.svg" alt="" className='w-screen h-64 md:h-96 object-cover rounded-lg' />
                     <h3 className='text-xl md:text-2xl font-bold font-sans py-1'>Work name here</h3>
                     <p className='text-gray-500 text-lg md:text-lg py-2 md:py-6'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.</p>
                     <Button className='bg-green-500 text-white px-4 py-2 rounded-sm font-sans text-sm'>Know more</Button>
