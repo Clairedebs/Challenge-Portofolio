@@ -12,7 +12,7 @@ const FirstMain = () => {
         {/* Image comes first on mobile */}
         <div className="block md:hidden w-[300px]">
             <img 
-                src="public/claire.jpg" 
+                src="/claire.jpg" 
                 alt="Profile" 
                 className="rounded-full aspect-square object-cover w-full"
             />

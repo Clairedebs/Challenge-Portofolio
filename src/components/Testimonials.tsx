@@ -20,7 +20,7 @@ const Testimonials = () => {
                 <p className='text-gray-400 text-lg md:text-lg py-6 md:py-10 text-center'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.</p>
                 <div className="flex items-center gap-4">
                     <Avatar>
-                        <AvatarImage src="public/client1.svg" />
+                        <AvatarImage src="/client1.svg" />
                     </Avatar>
                     <h3 className='text-white text-lg font-bold font-sans'>John Doe</h3>
                 </div>
@@ -37,7 +37,7 @@ const Testimonials = () => {
                 <p className='text-gray-400 text-lg md:text-lg py-6 md:py-10 text-center'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.</p>
                 <div className="flex items-center gap-4">
                     <Avatar>
-                        <AvatarImage src="public/client2.svg" />
+                        <AvatarImage src="/client2.svg" />
                     </Avatar>
                     <h3 className='text-white text-lg font-bold font-sans'>John Doe</h3>
                 </div>
@@ -54,7 +54,7 @@ const Testimonials = () => {
                 <p className='text-gray-400 text-lg md:text-lg py-6 md:py-10 text-center'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.</p>
                 <div className="flex items-center gap-4">
                     <Avatar>
-                        <AvatarImage src="public/client4.svg" />
+                        <AvatarImage src="/client4.svg" />
                     </Avatar>
                     <h3 className='text-white text-lg font-bold font-sans'>John Doe</h3>
                 </div>
@@ -71,7 +71,7 @@ const Testimonials = () => {
                 <p className='text-gray-400 text-lg md:text-lg py-6 md:py-10 text-center'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.</p>
                 <div className="flex items-center gap-4">
                     <Avatar>
-                        <AvatarImage src="public/client1.svg" />
+                        <AvatarImage src="/client1.svg" />
                     </Avatar>
                     <h3 className='text-white text-lg font-bold font-sans'>John Doe</h3>
                 </div>
