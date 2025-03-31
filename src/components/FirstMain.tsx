@@ -29,7 +29,7 @@ const FirstMain = () => {
         {/* Image shows on desktop */}
         <div className="hidden md:block w-[800px]">
             <img 
-                src="src/assets/claire.jpg" 
+                src="/claire.jpg" 
                 alt="Profile" 
                 className="rounded-full aspect-square object-cover w-full"
             />
